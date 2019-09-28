@@ -8,7 +8,7 @@
 
 ### 2019 Eylül
 
-* PDF dosyasını [buradan](en/ingilizcekılavuz2019-09.pdf) indirebilirsiniz.
+* PDF dosyasını [buradan](en/ingilizce_kılavuz_2019-09.pdf) indirebilirsiniz.
 * Bu sürümün düzeltme talebini iletmek için bu [dosyayı](https://docs.google.com/document/d/1AGh0qXN5PB8sTEBtN7TqzUTzHo71ss_Rou1xij8kF1w/edit?usp=sharing) kullanabilirsiniz.
 
 ## Düzeltme ya da ekleme talebi iletmek için
